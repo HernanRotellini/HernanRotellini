@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<h3 align="left">My portfolio: 404 we are working</h3>
+<h3 align="left">My portfolio: Error 404: still working on it</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
