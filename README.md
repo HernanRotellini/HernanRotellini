@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hernanrotellini@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/hernanrotellini/" target="_blank">LinkedIn</a></h3>
 <p align="left">
 </p>
 <h3 align="left">My portfolio: Error 404: still working on it</h3>
