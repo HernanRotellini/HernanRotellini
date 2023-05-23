@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js,React.js,Redux,Express,Sequelize**
 
-- 📫 How to reach me **hernanrotellini@hotmail.com**
+- 📫 How to reach me **hernanrotellini@gmail.com**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/hernanrotellini/" target="_blank">LinkedIn</a></h3>
 <p align="left">
