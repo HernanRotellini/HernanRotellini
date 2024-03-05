@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hernan Rotellini</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🔭 I’m currently working on HIPERSTOCK
+- 🔭 I’m currently working on INVinventarios
 
 - 🔭 Last project [Aqui-estoy](https://github.com/GuidoDealbera/aqui-estoy)
 
