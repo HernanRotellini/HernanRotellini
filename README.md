@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hernan Rotellini</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🔭 I’m currently working on INVinventario
-
-- 🔭 Last project [Aqui-estoy](https://github.com/GuidoDealbera/aqui-estoy)
+- 🔭 I’m currently working as freelance developer
 
 - 🌱 I’m currently learning **Node.js,React.js,Redux,Express,Sequelize**
 
