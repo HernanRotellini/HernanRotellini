@@ -10,11 +10,9 @@
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/hernanrotellini/" target="_blank">LinkedIn</a></h3>
 <p align="left">
 </p>
-<h3 align="left">My portfolio: Error 404: still working on it</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Featured projects: <a href="https://github.com/HernanRotellini/PokeApiHenry" target="_blank">PI-POKEMON</a><span>     </span> <a href="https://github.com/GuidoDealbera/aqui-estoy" target="_blank">PF-Aqui-estoy</a></h3>
+
+<h3 align="left">Featured projects:</span> <a href="https://github.com/GuidoDealbera/aqui-estoy" target="_blank">Aqui-estoy</a></h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
